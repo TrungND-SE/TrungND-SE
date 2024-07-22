@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Trung Nguyen Duc. 🇻🇳
+- 🌱 I’m currently Software Engineer.
+- 📫 Contact me : trungnd.se.tech@gmail.com
+- ⚡ Fun fact: Code in free time
